@@ -1,0 +1,18 @@
+1A, I, Soneer
+10A, G, cssjsu, Birdie Ross
+10B, G, cssjsu, David Johnson
+10C, G, cssjsu, Aldo Luce
+10E, I, Jackie Meador
+10F, I, Karri Johnson
+28A, G, G, Bob
+28B, G, G, Bob
+28C, G, G, Bob
+28D, G, G, Bob
+28E, G, G, Bob
+28F, G, G, Bob
+29A, G, Gr, Bob
+29B, G, Gr, Bob
+29C, G, Gr, Bob
+29D, G, Gr, Bob
+29E, G, Gr, Bob
+29F, G, Gr, Bob
